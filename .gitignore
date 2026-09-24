@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.venv/
+polling_offset.json
+*.tmp
+*.log
+backups/
+polls.json
+warnings.json
+community_settings.json
+giveaways.json
+stock.json
