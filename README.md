@@ -1,3 +1,5 @@
+# made by @swag on vulpine
+
 # Vulpine Social Bot
 
 A Python bot for Vulpine.pw groups. It handles community utilities, giveaways, polls, moderation, rich messages and image uploads through the Vulpine bot API.
